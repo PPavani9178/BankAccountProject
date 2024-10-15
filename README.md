@@ -28,7 +28,7 @@ The Java implementation of the `BankAccount` class can be found in the `java/src
 To include JUnit in your Java project, add the following dependency:
 
 **Maven:**
-```xml
+
 <dependency>
     <groupId>org.junit.jupiter</groupId>
     <artifactId>junit-jupiter</artifactId>
